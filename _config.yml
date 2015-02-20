@@ -10,3 +10,8 @@ github_username: jroesch
 
 # Build settings
 markdown: redcarpet
+
+redcarpet:
+   extensions: [
+      "footnotes"
+   ]

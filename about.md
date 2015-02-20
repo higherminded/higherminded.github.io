@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is a place for me (Jared Roesch) to document my attempts at
+bringing "high minded"[^1] ideas in Computer Science into practice.
+To me a "high minded" idea is one that provides a strong opinionated
+solution to a problem without fine print.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My goal is to eventually host some collaborative writing, and have
+others share their attempt at solving problems with "high minded"
+solutions.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+For the time being this will mostly take the form of me
+blogging about my research, programming patterns, and occasional ranting.
+
+[^1]: high minded - "having strong moral principles"
