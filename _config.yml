@@ -1,0 +1,12 @@
+# Site settings
+title: Higher Minded Types
+email: hmt+roeschinc@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog about exploring "higher minded" ideas in type theory, logic, and systems.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://highermindedtypes.com" # the base hostname & protocol for your site
+twitter_username: roeschinc
+github_username: jroesch
+
+# Build settings
+markdown: redcarpet
